@@ -21,20 +21,29 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Python", "C/C++", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "macOS", "Linux", "GitHub", "Visual Studio Code" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information and Computer Science (expected Fall, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2024-01-08",
       "endDate": "Present",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Information and Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2022-01-10",
+      "endDate": "2023-12-07",
       "courses": [
       ]
     }
@@ -94,16 +103,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2022-2023",
+      "awarder": "Leeward Community College",
+      "summary": "Awarded to students who earned a 3.0 GPA or higher for the semester."
     }
   ],
   "references": [
