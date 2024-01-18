@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/easykeno-square.png
+image: 
 title: "Easy Keno"
 date: 2023
 published: true
