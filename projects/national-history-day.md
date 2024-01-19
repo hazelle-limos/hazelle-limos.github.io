@@ -17,7 +17,7 @@ Creating a documentary was the best way to convey the message of the BPP, as we 
 I no longer have access to my high school Google account, so I won't be able to provide any original documents, such as project outlines. However, I am able to provide the documentary, which can be viewed here:
 
 <div class="ratio ratio-4x3 my-4">
-  <iframe src="https://youtu.be/cRL6TViREoU?si=6tbjXMb_yIUwr2Ij" 
+  <iframe src="https://youtu.be/cRL6TViREoU" 
           title="Overview of Hackystat" 
           allowfullscreen>
   </iframe>
