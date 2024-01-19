@@ -18,6 +18,8 @@ This project was developed as our last assignment for ICS 211 at Leeward Communi
 
 The simple GUI was created using Swing. Players are able to interact with the clickable buttons and the dropdown menu. After ending the Keno game, the results are outputted to a separate text file that maintains its history.
 
+Source: <a href"https://github.com/hazelle-limos/Easy-Keno"><i class="large github icon "></i>hazelle-limos/Easy-Keno</a>
+
 <div class="text-center p-4">
   <img width="500px" 
        src="../img/easykeno/easykeno-image-1.png" 
