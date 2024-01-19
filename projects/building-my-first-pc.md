@@ -7,7 +7,7 @@ date: 2021
 published: true
 labels:
   - Hardware
-summary: "I built my own desktop after researching the different parts."
+summary: "I built my own desktop for school and personal use."
 ---
 
 Building my first PC was a time-consuming, yet rewarding, experience. For several years, I spent most of my time browsing the internet, doing homework, and playing video games on a laptop. Because they can be limited in performance and upgradability, I decided that having a desktop would be the best option for long-term use. I had two choices: buying a prebuilt computer or building it from scratch. I could've taken the easy, and perhaps more convenient, route of buying a prebuilt. Though, since I haven't built a PC before, I figured, "Why not?" I have heard of the process being described as putting together LEGO pieces, so how difficult can it be?
