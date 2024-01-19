@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-### From Uncertainty to Clarity
+### Uncertainty to Clarity
 The road getting here has been a long one, and it wasn't a smooth ride either. I actually first attended college in August of 2019, a few months after my high school graduation. I entered the University of Hawaii at Manoa (UH Manoa) as a Nursing major. However, halfway through my first semester, I felt that I didn't have the passion that the rest of my classmates had. Since I didn't enjoy it, I chose not to force myself through the major and decided to switch to Social Work, as I wanted to be in a field that focuses on helping others. Long story short: that also didn't work out. Eventually, I realized I needed to take a semester off from school to figure out what I truly wanted to pursue. In that time, I reflected on my consistent usage of computers and considered its potential. Computer Science was never my initial choice when I declared a major, but after some consideration, I decided to embrace the challenge. Thus, I continued my education at Leeward Community College (LCC), graduating with an Associate of Science in Information and Computer Science. I learned the basics of programming there, along with other useful skills that I can apply to my future career. Those two years quickly passed, but I am grateful for the knowledge I have gained to bring me to where I am today.
 
 ### Semester Pursuits
