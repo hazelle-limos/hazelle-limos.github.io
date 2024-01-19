@@ -6,6 +6,7 @@ title: "National History Day"
 date: 2018
 published: true
 labels:
+  - Documentary
   - National History Day
 summary: "My group created a documentary about the Black Panther Party."
 ---
