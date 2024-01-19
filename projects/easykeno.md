@@ -19,13 +19,13 @@ This project was developed as our last assignment for ICS 211 at Leeward Communi
 The simple GUI was created using Swing. Players are able to interact with the clickable buttons and the dropdown menu. After ending the Keno game, the results are outputted to a separate text file that maintains its history.
 
 <div class="text-center p-4">
-  <img width="300px" 
+  <img width="500px" 
        src="../img/easykeno/easykeno-image-1.png" 
        class="img-thumbnail" >
-  <img width="300px" 
+  <img width="500px" 
        src="../img/easykeno/easykeno-image-2.png" 
        class="img-thumbnail" >
-  <img width="300px" 
+  <img width="500px" 
        src="../img/easykeno/easykeno-image-3.png" 
        class="img-thumbnail" >
 </div>
