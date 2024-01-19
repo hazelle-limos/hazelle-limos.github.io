@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/building-my-first-pc/building-my-first-pc-square.jpg
 title: "Building my First PC"
 date: 2021
 published: true
