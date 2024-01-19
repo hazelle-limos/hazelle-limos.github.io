@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/national-history-day/national-history-day-square
+image: img/national-history-day/national-history-day-square.jpg
 title: "National History Day"
 date: 2018
 published: true
