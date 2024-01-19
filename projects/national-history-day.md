@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/building-my-first-pc/building-my-first-pc-square.jpg
+image: img/national-history-day/national-history-day-square
 title: "National History Day"
 date: 2018
 published: true
