@@ -26,7 +26,7 @@ Eric Steven Raymond's essay, [How to Ask Questions the Smart Way](http://www.cat
        src="../img/the-importance-of-smart-questions/the-importance-of-smart-questions-2.png" 
        class="img-thumbnail" >
     <img width="200px" 
-       src="../img/the-importance-of-smart-questions/the-importance-of-smart-questions-3.png" 
+       src="../img/the-importance-of-smart-questions/the-importance-of-smart-questions-4.png" 
        class="img-thumbnail" >
 </div>
 
@@ -35,7 +35,7 @@ Eric Steven Raymond's essay, [How to Ask Questions the Smart Way](http://www.cat
 
 <div class="text-center p-4">
   <img width="400px" 
-       src="../img/the-importance-of-smart-questions/the-importance-of-smart-questions-4.png" 
+       src="../img/the-importance-of-smart-questions/the-importance-of-smart-questions-3.png" 
        class="img-thumbnail" >
 </div>
 
