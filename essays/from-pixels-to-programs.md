@@ -19,7 +19,7 @@ The road getting here has been a long one, and it wasn't a smooth ride either. I
 ### Semester Pursuits
 Now that I am back at UH Manoa, I am ready to take on this semester and the rest to come. I look forward to learning more about the realm of software engineering and acquiring the necessary skills to become a proficient developer. In regards to ICS 314, it is a change of pace that I will have to get used to. It has been challenging already, but I am confident that what I learn in this course will prepare me for the future. I'll be able to gain experience building different projects and in doing more collaborative group work. Besides web development, I hope to explore other areas such as UI/UX design and game development, as I am highly interested in those. I also want to join a club here at UH Manoa that will assist me in achieving my goals. I believe it would be a great way to build connections and to further foster my growth.
 
-<img width="400px" 
+<img width="450px" 
      class="rounded float-end pe-4" 
      src="../img/from-pixels-to-programs/from-pixels-to-programs-2.jpg" >
 
