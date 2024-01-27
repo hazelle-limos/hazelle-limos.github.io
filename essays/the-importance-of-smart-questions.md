@@ -16,6 +16,8 @@ labels:
 ### The Recipe for Smart Questions
 Eric Steven Raymond's essay, [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), serves as a guide in understanding the principles behind smart questions and how to properly ask them on online forums, such as StackOverflow. In essence, smart questions are those that are thoughtfully presented; they are clearly written, detailed (yet concise), and describe the steps leading up to the issue. Raymond emphasizes conducting prior research before seeking assistance through the means of consulting documentation, performing Google searches, or browsing multiple online forums for a question similar to yours. He also places an emphasis on humility and respect in interactions between fellow developers, as these are real people volunteering their time to assist others.
 
+<br clear="left"/>
+
 ### Examining the Smart Questions
 [Here](https://stackoverflow.com/questions/58052144/how-to-left-align-looping-typewriter-animated-text-in-a-center-block-using-html) is what I consider a smart question. From the post, I am able to gather that the user wishes to align their animated text to the left, while remaining in the center block. They have provided their HTML, CSS, and JavaScript code, along with visual examples of what the code is currently producing and what their end goal is. The user also mentions that they have read another StackOverflow post regarding a similar issue and tried to modify certain parts of their code to no avail. Although the respondents' solutions seemed like a quick and simple fix, the user displayed effort and willingness to learn in their post, thus making this a good example of a smart question.
 
