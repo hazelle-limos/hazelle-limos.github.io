@@ -12,6 +12,7 @@ labels:
 <img width="400px" 
      class="rounded float-start pe-4" 
      src="../img/the-importance-of-smart-questions/the-importance-of-smart-questions-1.jpg" >
+&nbsp;  
 
 ### The Recipe for Smart Questions
 Eric Steven Raymond's essay, [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), serves as a guide in understanding the principles behind smart questions and how to properly ask them on online forums, such as StackOverflow. In essence, smart questions are those that are thoughtfully presented; they are clearly written, detailed (yet concise), and describe the steps leading up to the issue. Raymond emphasizes conducting prior research before seeking assistance through the means of consulting documentation, performing Google searches, or browsing multiple online forums for a question similar to yours. He also places an emphasis on humility and respect in interactions between fellow developers, as these are real people volunteering their time to assist others.
