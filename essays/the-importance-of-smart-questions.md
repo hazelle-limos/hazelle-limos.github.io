@@ -23,10 +23,10 @@ Eric Steven Raymond's essay, [How to Ask Questions the Smart Way](http://www.cat
 [Here](https://stackoverflow.com/questions/58052144/how-to-left-align-looping-typewriter-animated-text-in-a-center-block-using-html) is what I consider a smart question. From the post, I am able to gather that the user wishes to align their animated text to the left, while remaining in the center block. They have provided their HTML, CSS, and JavaScript code, along with visual examples of what the code is currently producing and what their end goal is. The user also mentions that they have read another StackOverflow post regarding a similar issue and tried to modify certain parts of their code to no avail. Although the respondents' solutions seemed like a quick and simple fix, the user displayed effort and willingness to learn in their post, thus making this a good example of a smart question.
 
 <div class="text-center p-4">
-  <img width="500px" 
+  <img width="450px" 
        src="../img/the-importance-of-smart-questions/the-importance-of-smart-questions-2.png" 
        class="img-thumbnail" >
-    <img width="500px" 
+    <img width="450px" 
        src="../img/the-importance-of-smart-questions/the-importance-of-smart-questions-4.png" 
        class="img-thumbnail" >
 </div>
