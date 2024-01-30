@@ -31,7 +31,7 @@ Eric Steven Raymond's essay, [How to Ask Questions the Smart Way](http://www.cat
        class="img-thumbnail" >
 </div>
 
-[Here](https://stackoverflow.com/questions/77884912/pagination-using-dom-gives-assertion-error) is what I consider a not-so-smart question. Despite not being too versed in some of the jargon used in this post, it was not very clear to me what exactly the problem was. The user did not provide their code, and the description of their issue should have been in a more readable format. The post was quite vague in general, which won't be a useful search result for those who may encounter this post in the future. This inevitably led to the respondents asking for more information, and you know your question needs improvement when someone links an article called ["How to Ask a Good Question."](https://stackoverflow.com/help/how-to-ask) In the end, the post was closed and is awaiting user edits.
+[Here](https://stackoverflow.com/questions/77884912/pagination-using-dom-gives-assertion-error) is what I consider a not-so-smart question. Despite not being too versed in some of the jargon used in this post, it was not very clear to me what exactly the problem was. The user did not provide their code, and the description of their issue could have been in a more readable format. The post was quite vague in general, which won't be a useful search result for those who may encounter this post in the future. This inevitably led to the respondents asking for more information, and you know your question needs improvement when someone links an article called ["How to Ask a Good Question."](https://stackoverflow.com/help/how-to-ask) In the end, the post was closed and is awaiting user edits.
 
 <div class="text-center p-4">
   <img width="500px" 
