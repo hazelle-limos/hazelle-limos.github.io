@@ -19,7 +19,21 @@ With ESLint, it displays the severity of an issue in two ways:
 - Yellow squiggly lines serve as warnings. Sometimes, they do not have to be fixed, but it is probably best if you did.
 - Red squiggly lines indicate an error that must be fixed, or your code will not run properly.
 
-Additionally, if you absolutely do not know how to proceed after seeing either a yellow or red squiggly line, ESLint provides a description of the error and a solution available at the click of a button. I find this feature useful, as I can spend less time redoing parts of my code and more time on improving or adding onto it.
+<div class="text-center p-4">
+  <img width="400px" 
+       src="../img/the-dynamic-duo/the-dynamic-duo-1.png" 
+       class="img-thumbnail" >
+</div>
+
+These issues also appear in the "problems" tool window that I have previously mentioned.
+
+<div class="text-center p-4">
+  <img width="400px" 
+       src="../img/the-dynamic-duo/the-dynamic-duo-2.png" 
+       class="img-thumbnail" >
+</div>
+
+Additionally, if you absolutely do not know how to proceed after seeing either a yellow or red squiggly line, ESLint provides a description of the error and a solution available at the click of a button. I find this feature useful, as I can spend less time redoing parts of my code and more time on improving it.
 
 When your code is finally error-free, ESLint displays a small green checkmark on the top right of the code window. It brings a sense of relief and satisfaction when I see it, since at that point, I know I have made progress with my code. Although it has only been a week of using IntelliJ and ESLint, I find myself implementing the coding standards and the associated practices more and more. I tend to be inconsistent on where I put spaces before parenthesis or curly braces, and also how often I make a new line under an existing line of code. ESLint picks up on these bad habits, and in turn, I *have* to correct them. 
 
