@@ -44,3 +44,5 @@ When your code is finally error-free, ESLint displays a small green checkmark on
 
 ### Blueprint for Success
 Overall, I see myself using these tools for as long as I can. The error and warning messages may be critical at times, but I will view them as learning opportunities. I am nowhere near my desired proficiency in coding, so being able to see and understand why my code may not be optimal will help me improve over time.
+
+(ChatGPT was used to brainstorm essay and header titles, along with guiding essay direction).
