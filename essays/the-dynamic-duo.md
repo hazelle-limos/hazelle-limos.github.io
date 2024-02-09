@@ -31,7 +31,7 @@ With ESLint, it displays the severity of an issue in two ways:
 These issues also appear in the "problems" tool window that I have previously mentioned.
 
 <div class="text-center p-4">
-  <img width="400px" 
+  <img width="500px" 
        src="../img/the-dynamic-duo/the-dynamic-duo-2.png" 
        class="img-thumbnail" >
 </div>
