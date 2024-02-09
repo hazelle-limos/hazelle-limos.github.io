@@ -19,4 +19,9 @@ With ESLint, it displays the severity of an issue in two ways:
 - Yellow squiggly lines serve as warnings. Sometimes, they do not have to be fixed, but it is probably best if you did.
 - Red squiggly lines indicate an error that must be fixed, or your code will not run properly.
 
-When your code is finally error-free, ESLint displays a small green checkmark on the top right of the code window. It brings a sense of relief and satisfaction when I see it, since at that point, I know I have made progress with my code. Although it has only been a week of using IntelliJ and ESLint, I find myself implementing the coding standards more and more. I tend to be inconsistent on where I put spaces, such as before parenthesis or curly braces, and also how often I make a new line under a line of code. ESLint picks up on these bad habits, and in turn, I *have* to correct them. 
+Additionally, if you absolutely do not know how to proceed after seeing either a yellow or red squiggly line, ESLint provides a description of the error and a solution available at the click of a button. I find this feature useful, as I can spend less time redoing parts of my code and more time on improving or adding onto it.
+
+When your code is finally error-free, ESLint displays a small green checkmark on the top right of the code window. It brings a sense of relief and satisfaction when I see it, since at that point, I know I have made progress with my code. Although it has only been a week of using IntelliJ and ESLint, I find myself implementing the coding standards and the associated practices more and more. I tend to be inconsistent on where I put spaces before parenthesis or curly braces, and also how often I make a new line under an existing line of code. ESLint picks up on these bad habits, and in turn, I *have* to correct them. 
+
+### Blueprint for Success
+Overall, I see myself using these tools for as long as I can. The error and warning messages may be critical at times, but I will view them as learning opportunities. I am nowhere near my desired proficiency in coding, so being able to see and understand why my code may not be optimal will help me improve. 
