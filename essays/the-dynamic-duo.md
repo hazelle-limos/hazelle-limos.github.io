@@ -17,7 +17,7 @@ Throughout the different computer science courses I have taken, I have used a va
 
 With ESLint, it displays the severity of an issue in two ways:
 - Yellow squiggly lines serve as warnings. It is probably best to fix these issues, as they can range from typos or unnecessary bits of code.
-- Red squiggly lines indicate an error that must be fixed or code that does not follow the standards.
+- Red squiggly lines indicate an error, usually code that does not follow the standards. These should be fixed.
 
 In either circumstance, your code may not run properly if these are present.
 
