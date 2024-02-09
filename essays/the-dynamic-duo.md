@@ -21,6 +21,9 @@ With ESLint, it displays the severity of an issue in two ways:
 
 <div class="text-center p-4">
   <img width="400px" 
+       src="../img/the-dynamic-duo/the-dynamic-duo-3.png" 
+       class="img-thumbnail" >
+    <img width="400px" 
        src="../img/the-dynamic-duo/the-dynamic-duo-1.png" 
        class="img-thumbnail" >
 </div>
