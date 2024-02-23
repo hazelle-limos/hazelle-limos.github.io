@@ -9,6 +9,10 @@ labels:
   - Software Engineering
 ---
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/ui-frameworks-building-blocks-for-modern-design/ui-frameworks-1.png" >
+
 ### What is a UI Framework?
 Creating a website from scratch is not an easy task. There are many elements that can be found on a single page: navigation bars, dropdown menus, buttons, forms, large text, small text---the list goes on and on. So, how do we make this easier? Sure, you can find a website that, funnily enough, builds a website for you. Or, if you're feeling ambitious, you can also do it yourself with HTML and CSS. It's quite basic, but it gets the job done. Did you want to make it fancier, but don't want to spend another hour making micro adjustments to your stylesheet? Luckily for you, User Interface (UI) frameworks exist!
 
