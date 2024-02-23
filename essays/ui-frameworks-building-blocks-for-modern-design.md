@@ -23,8 +23,8 @@ UI frameworks are a collection of templates and reusable design components that 
 ### Simple, but not quite
 Although UI frameworks provide pre-built components, implementing them can be...tricky. From my experience using Bootstrap 5, which I have been newly introduced to, it was a hassle trying to figure out why certain components were not aligning properly or why an applied style wasn't doing its job. For example, I was trying to fix the navigation bar for my recreation of the Stüssy website, as part of E36: Your Choice with Bootstrap 5. The elements on the left side of the bar was exactly where I wanted it to be. However, the elements on the right side were slightly higher and, somehow, lower at one point. I tried a *bunch* of solutions. Never did I get it on the first try; it was a constant loop of adding a class to a `<div>` or line to my stylesheet and deleting it all again because nothing would work. I finally found my solution on a StackOverflow post, and I thought to myself, "Wow, that was so much harder than it needed to be." 
 
-<img width="350px" 
-     class="rounded float-end pb-4" 
+<img width="300px" 
+     class="rounded float-end pe-4" 
      src="../img/ui-frameworks-building-blocks-for-modern-design/ui-frameworks-2.png">
 
 I think that sums up my overall experience with Bootstrap 5. Learning a framework can be  challenging and definitely takes time, but it will be worth it in the end. My prior experience with any sort of web development mostly came from [The Odin Project](https://www.theodinproject.com/), which I unfortunately didn't get too far in, but just enough to know the very basics. Much of what we're learning is undiscovered territory for me. Despite my frustrations, being able to build upon what I have previously learned and applying these skills to the WODs left me motivated and eager to improve. I feel that I've always had an eye for aesthetics, and being able to express so through building websites with engaging visuals and intuitive design brings satisfaction. Even if it's a simple recreation, I can look at it and be proud of what I have done. That said, I can't wait to see what else is in store for me.
