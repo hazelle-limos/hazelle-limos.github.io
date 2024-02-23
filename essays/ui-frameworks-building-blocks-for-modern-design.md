@@ -9,6 +9,7 @@ labels:
   - Software Engineering
 ---
 
-###
+### What is a UI Framework?
+Creating a 
 
 (ChatGPT was used to brainstorm essay and header titles, along with guiding essay direction).
