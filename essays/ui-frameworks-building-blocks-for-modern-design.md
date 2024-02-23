@@ -10,6 +10,13 @@ labels:
 ---
 
 ### What is a UI Framework?
-Creating a 
+Creating a website from scratch is not an easy task. There are many elements that can be found on a single page: navigation bars, dropdown menus, buttons, forms, large text, small text--the list goes on and on. So, how do we make this easier? Sure, you can find a website that, funnily enough, builds a website for you. Or, if you're feeling ambitious, you can also do it yourself with HTML and CSS. It's quite basic, but it gets the job done. Did you want to make it fancier, but don't want to spend another hour making micro adjustments to your stylesheet? Luckily for you, User Interface (UI) frameworks exist!
+
+UI frameworks are a collection of templates and reusable design components that accelerate the frontend development process. These frameworks maintain consistency and improve efficiency when it comes to the creation of web applications. They also come with built-in support for responsive design so that interfaces are able to adapt smoothly to different screen sizes and devices. User interfaces are designed to enhance the user experience across all platforms through their visual appeal and functionality.
+
+### Simple, but not quite
+Although UI frameworks provide pre-built components, implementing them can be...tricky. From my experience during this week's module, it was a hassle trying to figure out why certain components were not aligning properly or why an applied style wasn't doing its job. For example, I was trying to fix the navigation bar for my recreation of the Stussy website, as part of E36: Your Choice with Bootstrap 5. The elements on the left side of the bar was exactly where I wanted it to be. However, the elements on the right side were slightly higher and, somehow, lower at one point. I tried a *bunch* of solutions. Never did I get it on the first try; it was a constant loop of adding a class to a <div> or line to my stylesheet and deleting it all again because nothing would work. I finally found my solution on a StackOverflow post, and I thought to myself, "Wow, that was so much harder than it needed to be." 
+
+I think that sums up my overall experience with Bootstrap 5. Learning a framework can be  challenging and definitely takes time, but it will be worth it in the end. My prior experience with any sort of web development mostly came from [The Odin Project](https://www.theodinproject.com/), which I unfortunately didn't get too far in, but just enough to know the very basics. With this week's module, building upon what I already knew and applying these skills to the WODs 
 
 (ChatGPT was used to brainstorm essay and header titles, along with guiding essay direction).
