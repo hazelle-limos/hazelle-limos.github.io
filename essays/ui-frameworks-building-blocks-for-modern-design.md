@@ -7,9 +7,11 @@ date: 2024-02-22
 published: true
 labels:
   - Software Engineering
+  - UI Frameworks
+  - Bootstrap 5
 ---
 
-<img width="400px" 
+<img width="300px" 
      class="rounded float-start pe-4" 
      src="../img/ui-frameworks-building-blocks-for-modern-design/ui-frameworks-1.png">
 
