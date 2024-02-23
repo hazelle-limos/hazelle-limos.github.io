@@ -7,6 +7,9 @@ date: 2024-02-8
 published: true
 labels:
   - Software Engineering
+  - IntelliJ
+  - ESLint
+  - IDE
 ---
 
 ### Consistency is Key
