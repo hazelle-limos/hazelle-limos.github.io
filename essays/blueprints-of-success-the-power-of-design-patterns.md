@@ -23,7 +23,7 @@ So, to answer the question, there are different ways you could have approached t
 As part of our final project for ICS 314, my team and I have worked with several design patterns.
 
 #### Singleton Pattern
-Notably, the [Singleton pattern](https://www.patterns.dev/vanilla/singleton-pattern) is implemented through our Mongo Collections. An example from our project is the `ProfilesCollection`: 
+Notably, the [Singleton Pattern](https://www.patterns.dev/vanilla/singleton-pattern) is implemented through our Mongo Collections. An example from our project is the `ProfilesCollection`: 
 
 ```
 class ProfilesCollection {
