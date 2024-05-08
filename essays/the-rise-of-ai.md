@@ -10,6 +10,10 @@ labels:
   - Artificial Intelligence (AI)
 ---
 
+<img width="250px"
+    class="rounded float-start pe-4"
+    src="../img/the-rise-of-ai/ai-assistant.jpeg" >
+
 ### I. Introduction
 In recent years, artificial intelligence (AI) has emerged as a transformative tool across various domains. One of its mainstream usages would be through chatbots, such as [ChatGPT](https://chat.openai.com/). Give it a prompt, and it will perform most tasks you ask it to do.
 
