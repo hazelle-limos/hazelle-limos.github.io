@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence (AI)
 ---
 
-<img width="250px"
+<img width="400px"
     class="rounded float-start pe-4"
     src="../img/the-rise-of-ai/ai-assistant.jpeg" >
 
