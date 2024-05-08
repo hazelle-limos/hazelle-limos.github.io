@@ -73,6 +73,7 @@ I have not thought about using AI to document my code and am not sure if I ever 
 As mentioned before, I have used ChatGPT to troubleshoot errors I have encountered. I would copy and paste what I have, and ChatGPT would give input on what I could change. ESLint also does a decent job at finding errors that I might have missed.
 
 **14. Other uses in ICS 314 not listed above**
+<br>
 I have not used AI for other purposes that were not listed.
 
 ### III. Impact on Learning and Understanding:
@@ -86,12 +87,15 @@ One example I came across recently and find interesting is the creation of porta
 ### V. Challenges and Opportunities:
 Some obvious limitations are the inaccuracy in the information provided by AI and misunderstanding prompts. ChatGPT will sometimes go in circles when trying to help me, and I either have to restart the chat or give up on using it. Additionally, as a student, it can be easy to fall in the habit of relying on AI. It ultimately comes down to how we utilize AI--if we choose to use it as a tool, rather than an easy way out.
 
-As for potential opportunities, AI could be trained to handle more complex code and issues. Furthermore, if AI was able to recognize your learning style, it could provide additional, personalized lessons along with feedback that can help you understand concepts better.
+As for potential opportunities, AI could be trained to handle more complex code and issues. Furthermore, if AI was able to recognize your learning style, it could provide personalized lesson plans along with feedback that can help you understand concepts better.
 
 ### VI. Comparative Analysis:
-Traditional teaching methods in the context of software engineering education often involve lectures, textbooks, coding assignments, and projects. Some students may prefer self-teaching methods, while others prefer face-to-face interaction. I do not think AI will replace teachers and professors completely, but implementing it in lessons could keep students more engaged.
+Traditional teaching methods in the context of software engineering education often involve lectures, textbooks, coding assignments, and projects. Some students may prefer self-teaching methods, while others prefer face-to-face interaction. I do not think AI will replace professors completely, but it can be difficult for students to stay engaged during lessons. Professors may not always be available for help either, or students may not have schedules that line up with theirs. With AI, you can receive help whenever you need it and have it explained in a way that makes most sense to you.
 
 ### VII. Future Considerations:
+AI should be used to enhance learning beyond the classroom, as mentioned by my previous points. I also appreciate how this class was more open toward the use of AI and hope it does not become discouraged in the future. Of course, you cannot prevent a student from full-on cheating if they choose, but that will reflect in the work they output when AI is not available for use. 
 
+AI seems unavoidable at this point, so as long as it continues to improve and is not abused by students or instructors, it can find its place in education.
 
 ### VIII. Conclusion:
+Overall, AI has been more beneficial, rather than detrimental, to my learning. The transparency about AI in ICS 314 should be maintained, as students should be able to explore the tools that work best for them. I admit, I might have relied on it a bit more than I should have, but it taught me how to use it more consciously. AI is not perfect and remains controversial, but it does have potential to grow into something bigger.
