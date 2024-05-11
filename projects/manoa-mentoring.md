@@ -15,7 +15,7 @@ summary: "Final project for ICS 314, which allows users to find a study buddy an
 ---
 
 <div class="text-center">
-  <img width="500px" 
+  <img width="1000px" 
        src="../img/manoa-mentoring/manoa-mentoring-1.png">
 </div>
 
@@ -26,21 +26,22 @@ Manoa Mentoring is a web application that allows students to find a study buddy 
 
 Source code can be viewed at [manoa-mentoring/manoamentoring](https://github.com/manoa-mentoring/manoamentoring).
 
-The live website can be viewed at https://manoa-mentoring.site/.
+The live website can be viewed at [https://manoa-mentoring.site](https://manoa-mentoring.site)/.
 
-Visit https://manoa-mentoring.github.io/ to learn more about the development process!
+Visit [https://manoa-mentoring.github.io/](https://manoa-mentoring.github.io/) to learn more about the development process!
 
 ### My Contributions
 For this project, I was responsible for creating the overall look for the user profiles, the create/edit session pages, and implementing the "join session" function. I also assisted with the page for displaying the user's joined sessions, along with other issues that arose during development. 
 
-<div class="text-center">
-    <img width="500px" 
+<div class="text-center p-4">
+    <img width="800px" 
         src="../img/manoa-mentoring/manoa-mentoring-2.png">
-    <img width="500px"
+    <img width="800px"
         src="../img/manoa-mentoring/manoa-mentoring-3.png">
-    <img width="500px"
-        src="../img/manoa-mentoring/manoa-mentoring-4.gif">
 </div>
+
+<img width="300px"
+    src="../img/manoa-mentoring/manoa-mentoring-4.gif">
 
 ### What I Learned
 This project was a great learning experience for me as it allowed me to work on a full-stack web application using the Meteor framework. I gained valuable experience in developing a responsive and user-friendly web application, as well as working with a team to meet project deadlines. I also learned how to effectively communicate with team members and collaborate on different aspects of the project. Ultimately, I feel that this project has helped me grow as a developer and has prepared me for future projects in the field of web development.
