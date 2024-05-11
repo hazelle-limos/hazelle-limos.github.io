@@ -31,17 +31,16 @@ The live website can be viewed at [https://manoa-mentoring.site](https://manoa-m
 Visit [https://manoa-mentoring.github.io/](https://manoa-mentoring.github.io/) to learn more about the development process!
 
 ### My Contributions
-For this project, I was responsible for creating the overall look for the user profiles, the create/edit session pages, and implementing the "join session" function. I also assisted with the page for displaying the user's joined sessions, along with other issues that arose during development. 
+For this project, I was responsible for creating the overall look for the user profiles, the create and edit session pages, and implementing the "join session" function. I also assisted with the page for displaying the user's joined sessions, along with other issues that arose during development. 
 
-<div class="align-left m-1">
-    <img width="700px" 
+<div class="text-center m-1">
+    <img width="700px" class="p-3" 
         src="../img/manoa-mentoring/manoa-mentoring-2.png">
-    <img width="700px"
+    <img width="700px" class="p-3"
         src="../img/manoa-mentoring/manoa-mentoring-3.png">
+    <img width="500px"
+        src="../img/manoa-mentoring/manoa-mentoring-4.gif">
 </div>
-
-<img width="500px"
-    src="../img/manoa-mentoring/manoa-mentoring-4.gif">
 
 ### What I Learned
 This project was a great learning experience for me as it allowed me to work on a full-stack web application using the Meteor framework. I gained valuable experience in developing a responsive and user-friendly web application, as well as working with a team to meet project deadlines. I also learned how to effectively communicate with team members and collaborate on different aspects of the project. Ultimately, I feel that this project has helped me grow as a developer and has prepared me for future projects in the field of web development.
