@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/easykeno/easykeno-square.png
+image: img/manoa-mentoring/manoa-mentoring-square.png
 title: "Manoa Mentoring"
 date: 2024
 published: true
