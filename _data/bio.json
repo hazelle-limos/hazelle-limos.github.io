@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Python", "C/C++", "Javascript" ]
+      "keywords": [ "Java", "Python", "C/C++", "JavaScript", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "macOS", "Linux", "GitHub", "Visual Studio Code" ]
+      "keywords": [ "Windows", "macOS", "Linux", "GitHub", "Visual Studio Code", "IntelliJ IDEA" ]
     }
   ],
   "education": [
