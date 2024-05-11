@@ -11,6 +11,10 @@ labels:
   - Agile Project Management
 ---
 
+<img width="400px"
+    class="rounded pe-4"
+    src="../img/lessons-from-my-software-engineering-journey/lessons-1.jpeg" >
+
 ## Semester's End
 After a jam-packed semester, we have finally come to the end. ICS 314 has imbued me with much knowledge relating to the software engineering process. As there were many lessons to be learned, I will be focusing on the most important ones that I have taken away from this course: coding standards and agile project management.
 
