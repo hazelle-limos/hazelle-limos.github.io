@@ -14,7 +14,7 @@ labels:
 summary: "Final project for ICS 314, which allows users to find a study buddy and organize study sessions."
 ---
 
-<div class="text-center">
+<div class="text-center m-1">
   <img width="1000px" 
        src="../img/manoa-mentoring/manoa-mentoring-1.png">
 </div>
@@ -33,14 +33,14 @@ Visit [https://manoa-mentoring.github.io/](https://manoa-mentoring.github.io/) t
 ### My Contributions
 For this project, I was responsible for creating the overall look for the user profiles, the create/edit session pages, and implementing the "join session" function. I also assisted with the page for displaying the user's joined sessions, along with other issues that arose during development. 
 
-<div class="text-center p-4">
-    <img width="800px" 
+<div class="align-left m-1">
+    <img width="700px" 
         src="../img/manoa-mentoring/manoa-mentoring-2.png">
-    <img width="800px"
+    <img width="700px"
         src="../img/manoa-mentoring/manoa-mentoring-3.png">
 </div>
 
-<img width="300px"
+<img width="500px"
     src="../img/manoa-mentoring/manoa-mentoring-4.gif">
 
 ### What I Learned
